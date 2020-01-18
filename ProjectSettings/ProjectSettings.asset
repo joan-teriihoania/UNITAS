@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 346e6f5d0f25e2242bf18b5d5f73c125
+  productGUID: e796d8ba647b2c74c9332a199ec61038
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Ter
+  productName: Bis
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -591,9 +591,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: e452b8a3-0afb-43be-92a7-641656a88502
+  cloudProjectId: 3a4e5c2d-f97e-4baf-8ed3-a8abd7f0caa5
   framebufferDepthMemorylessMode: 0
-  projectName: Ter
+  projectName: Bis (1)
   organizationId: joprocorp
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
